@@ -1,1 +1,1 @@
-# Project-2A
+Projeto de algoritmo para atividade avaliativa.
