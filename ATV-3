@@ -1,0 +1,5 @@
+while: enquanto a condição no parênteses for verdade ele executa o comando nas chaves, avalia a condição antes de executar o comando nas chaves.
+
+do-while: enquanto a condição no parênteses for verdade ele executa o comando nas chaves, avalia a condição uma vez antes de executar o comando nas chaves.
+
+for: um while que apresenta a declaração de uma variável, uma condição e um comando sempre repetido a cada execução, nesta ordem, dentro da sua própria fórmula padrão.
